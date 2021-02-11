@@ -1,0 +1,9 @@
+.head-strong {
+    font-weight: 600;
+    text-transform:initial;
+}
+
+.head-bold {
+    font-weight: 600;
+    text-transform:uppercase;
+}

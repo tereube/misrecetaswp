@@ -1,0 +1,14 @@
+.padre {
+    display:flex;
+    background-color:blue;
+    width: 500px;
+    height: 500px;
+    justify-content: space-between;
+}
+
+.hijo{
+    background-color: yellow;
+    border: 2px solid black;
+    height: 200px;
+    width: 100px;
+}

@@ -1,0 +1,13 @@
+/* fondos */
+.bg-dark {
+    background-color:rgb(252, 114, 1);
+}
+
+.bg-light {
+    background-color:rgb(243, 184, 56);
+}
+
+/* corners */
+.rounded {
+    border-radius: 10px;
+}
